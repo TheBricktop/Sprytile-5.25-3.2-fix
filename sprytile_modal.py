@@ -51,6 +51,8 @@ class VIEW3D_OP_SprytileModalTool(bpy.types.Operator):
         'PAINT' : "Sprytile Paint Tool Map", 
         'FILL' : "Sprytile Fill Tool Map"
         }
+        
+    draw_preview = False
 
     @staticmethod
     def calculate_view_axis(context):
