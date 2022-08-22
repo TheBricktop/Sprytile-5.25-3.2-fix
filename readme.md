@@ -2,9 +2,10 @@
     <img src="sprytile-logo.png?raw=true" height="100px"/>
     <h1 align="center">Sprytile Painter</h1>
     <h4 align="center">
-        A <img src="https://download.blender.org/institute/logos/blender-socket.png" height="20px"/> addon for creating tile based low spec 3D scenes. (Unofficial port for blender 2.8)
+        A <img src="https://download.blender.org/institute/logos/blender-socket.png" height="20px"/> addon for creating tile based low spec 3D scenes. (Unofficial port for blender 3.2)
     </h4>
   <br>
+
 </p>
 
 ### Features
@@ -38,3 +39,6 @@ Bug reports for this port can be submitted to [GitHub issues](https://github.com
 ### Acknowledgments:
 
 The bulk of Blender 2.8 porting work by was done by [Yonnji](https://github.com/Yonnji) and [ologon](https://github.com/ologon), with additional contributions by [brandy92](https://github.com/brandy92)
+
+Updated to the ithcio version 5.25
+Fixes from  @ajbaldocchi to make it work with the newest blender ( 3.2 testing )
