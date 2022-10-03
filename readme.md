@@ -8,6 +8,10 @@
 
 </p>
 
+## Fix for blender 3.2
+
+Fix contains the version that was uploaded to the itchio including fixes made by @ajbaldocchi
+
 ### Features
 
 * Tile building: Build your mesh directly with tiles, skip tedious UV mapping while quickly rotating and flipping tiles.
@@ -26,6 +30,7 @@ Download from [releases](https://github.com/ologon/Sprytile/releases).
 
 * [Sprytile Basics Tutorial](http://docs.sprytile.xyz/quick-start/) ([video](https://youtu.be/-ezYZgMp-R0)) 
 * Blender 2.8 specific [tips](https://itch.io/post/1034106)
+* Sprytile documentation is [here](https://docs.sprytile.xyz/) mostly compatible.
 
 ### Community:
 
